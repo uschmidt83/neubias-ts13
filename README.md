@@ -26,7 +26,7 @@ $ conda install numpy ipython jupyter matplotlib pandas scipy scikit-image sciki
 
 *I'll look into getting the deep learning examples to run on [Google Colab](https://colab.research.google.com), but can't promise that it'll work.*
 
-If you want to follow along the deep learning examples on your own computer, please first [install TensorFlow 1.x](https://www.tensorflow.org/install) by following the official instructions. (*Do not choose a preview release version of TensorFlow 2.x*)
+If you want to follow along the deep learning examples on your own computer, please first [install TensorFlow 1.x](https://www.tensorflow.org/install) (**not TensorFlow 2**) by following the official instructions.
 
 It is strongly recommended to use TensorFlow with [GPU support](https://www.tensorflow.org/install/gpu) if you have a compatible GPU from Nvidia. Note that it is very important to install the specific versions of CUDA and cuDNN that are compatible with the respective version of TensorFlow.
 
