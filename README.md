@@ -20,6 +20,7 @@ Please install [Anaconda](https://www.anaconda.com/distribution/) or [Miniconda]
 $ conda create --name ts13 python=3.6
 $ conda activate ts13
 $ conda install numpy ipython jupyter matplotlib pandas scipy scikit-image scikit-learn seaborn tqdm
+$ pip install matplotlib-scalebar
 ```
 
 ## Deep Learning
