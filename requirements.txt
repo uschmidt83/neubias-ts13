@@ -1,3 +1,4 @@
+csbdeep
 numpy
 matplotlib
 matplotlib-scalebar
