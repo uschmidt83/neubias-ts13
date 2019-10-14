@@ -1,15 +1,17 @@
+# Python scikit-image (90 minutes)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/uschmidt83/neubias-ts13/master)
+
+As the name suggests, this session will be about demonstrating how 
+typical image processing and analysis tasks can be accomplished with 
+[scikit-image](https://scikit-image.org/). I will prepare examples that I think are relevant, but this session could be more interactive based on the interests of the participants.
+
+
 # Machine Learning (120 minutes)
 
 We will first cover some machine learning (ML) basics and discuss the tradeoffs between traditional image analysis approaches and ML-based ones.
 This session will focus on the tasks of image restoration and segmentation, for which we'll explore classic machine learning methods, as well as recent approaches based on deep learning (e.g. [CARE](http://csbdeep.bioimagecomputing.com), [StarDist](https://github.com/mpicbg-csbd/stardist)).
 Examples will be demonstrated via Jupyter notebooks using Python, which you can follow along if you install the necessary software.
-
-
-# Python scikit-image (90 minutes)
-
-As the name suggests, this session will be about demonstrating how 
-typical image processing and analysis tasks can be accomplished with 
-[scikit-image](https://scikit-image.org/). I will prepare examples that I think are relevant, but this session could be more interactive based on the interests of the participants.
 
 
 # Homework
@@ -20,6 +22,7 @@ Please install [Anaconda](https://www.anaconda.com/distribution/) or [Miniconda]
 $ conda create --name ts13 python=3.6
 $ conda activate ts13
 $ conda install numpy ipython jupyter matplotlib pandas scipy scikit-image scikit-learn seaborn tqdm
+$ pip install matplotlib-scalebar
 ```
 
 ## Deep Learning

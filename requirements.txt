@@ -1,0 +1,10 @@
+csbdeep
+numpy
+matplotlib
+matplotlib-scalebar
+pandas
+scipy
+scikit-image
+scikit-learn
+seaborn
+tqdm
