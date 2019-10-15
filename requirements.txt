@@ -8,5 +8,3 @@ scikit-image
 scikit-learn
 seaborn
 tqdm
-tensorflow<2
-stardist
