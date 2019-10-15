@@ -4,3 +4,7 @@
 *.csv
 *.mtx.gz
 slides/
+*.tif
+*.npz
+*.json
+*.h5
